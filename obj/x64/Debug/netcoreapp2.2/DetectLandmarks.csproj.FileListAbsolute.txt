@@ -1,0 +1,13 @@
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceLandmarksRecognition\detectlandmarks\bin\x64\Debug\netcoreapp2.2\DlibDotNetNative.dll
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceLandmarksRecognition\detectlandmarks\bin\x64\Debug\netcoreapp2.2\DlibDotNetNativeDnn.dll
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceLandmarksRecognition\detectlandmarks\bin\x64\Debug\netcoreapp2.2\DetectLandmarks.deps.json
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceLandmarksRecognition\detectlandmarks\bin\x64\Debug\netcoreapp2.2\DetectLandmarks.runtimeconfig.json
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceLandmarksRecognition\detectlandmarks\bin\x64\Debug\netcoreapp2.2\DetectLandmarks.runtimeconfig.dev.json
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceLandmarksRecognition\detectlandmarks\bin\x64\Debug\netcoreapp2.2\DetectLandmarks.dll
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceLandmarksRecognition\detectlandmarks\bin\x64\Debug\netcoreapp2.2\DetectLandmarks.pdb
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceLandmarksRecognition\detectlandmarks\obj\x64\Debug\netcoreapp2.2\DetectLandmarks.csprojAssemblyReference.cache
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceLandmarksRecognition\detectlandmarks\obj\x64\Debug\netcoreapp2.2\DetectLandmarks.csproj.CoreCompileInputs.cache
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceLandmarksRecognition\detectlandmarks\obj\x64\Debug\netcoreapp2.2\DetectLandmarks.AssemblyInfoInputs.cache
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceLandmarksRecognition\detectlandmarks\obj\x64\Debug\netcoreapp2.2\DetectLandmarks.AssemblyInfo.cs
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceLandmarksRecognition\detectlandmarks\obj\x64\Debug\netcoreapp2.2\DetectLandmarks.dll
+E:\Jakub\Documents\Programowanie\AspDotNet\AspDotNetCore\photoFaceLandmarksRecognition\detectlandmarks\obj\x64\Debug\netcoreapp2.2\DetectLandmarks.pdb
